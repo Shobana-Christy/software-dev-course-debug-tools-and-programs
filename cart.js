@@ -56,4 +56,4 @@ if (discountedTotal == -1) {
     then we need to validate and show as error
  3. since the generateReceipt is using toFixed method which is available only for number, 
     we have to validate total to be an number type.
-*/
+**/
